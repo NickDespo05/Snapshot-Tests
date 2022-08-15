@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the bio, name, and profile picture to the file 1`] = `
+<div>
+  <div
+    className="card"
+  />
+</div>
+`;
